@@ -1,0 +1,64 @@
+.vnb{
+  font-size: 1rem;
+}
+
+.projext{
+  display: flex;
+  padding: 20px;
+  gap: 15px;
+}
+
+
+.nu{
+  font-size: 0.9rem;
+  text-align: center;
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+
+.circle {
+  width: 42px;
+  height: 42px;
+  line-height: 42px;
+  border-radius: 50%;
+  color: #000;
+  font-weight: bolder;
+  text-align: center;
+  background: #e0e0e0 !important;
+  border-color: #e0e0e0 !important;
+}
+
+.ghjd{
+  display: inline;
+}
+
+.infoicon{
+  cursor: pointer;
+
+}
+
+.projectname{
+  font-weight: bolder;
+}
+
+.projectdate{
+  font-size: 0.9rem;
+  color: #00000099;
+}
+
+.textpro{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+
+.of{
+  display: flex;
+}

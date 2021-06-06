@@ -1,0 +1,77 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+.matclss{
+  padding-top: 30px;
+}
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.social{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 100px;
+    gap:10%;
+
+}
+
+.dgs{
+  padding-left: 12px;
+}
+
+.dgso{
+  padding-left: 15px;
+}
+
+.endcredits{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.ohono{
+  font-size: 0.7rem;
+  border: 1px solid #e8e8e8;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.name{
+    text-align: center;
+    font-weight: bolder;
+    padding-left: 20px;
+}
+.fd{
+  font-size: 0.9rem;
+  text-align: center;
+  font-weight: bolder;
+  padding-left: 10px;
+}
+.got{
+  display: flex;
+  flex-direction: column;
+  font-family: 'Nunito', sans-serif;
+}
+.pdp{
+  display: flex;
+}
+
+.avatar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+

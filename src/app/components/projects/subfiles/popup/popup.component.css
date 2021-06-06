@@ -1,0 +1,17 @@
+.tss{
+    font-size: 1.3rem;
+    font-family: 'Nunito', sans-serif; 
+}
+
+
+.prohe{
+    font-size: 1rem;
+    font-weight: bolder;
+    color: #616168!important;
+    caret-color: #616161!important;
+  }
+
+
+ .parent-container{
+     display: flex;
+ }
